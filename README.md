@@ -42,3 +42,9 @@ Ir para a página do [Google](https://www.google.com)
 
 <img src="https://github.com/betopinheiro1005/curso-git-github-geofisicando/blob/main/github_social.png" width="500">
 
+### Lista com checkbox
+#### Funções para implementar
+
+- [ ] função somar
+- [x] função subtrair
+- [ ] função multiplicar
