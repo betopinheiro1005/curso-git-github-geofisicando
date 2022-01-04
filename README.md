@@ -48,3 +48,11 @@ Ir para a página do [Google](https://www.google.com)
 - [ ] função somar
 - [x] função subtrair
 - [ ] função multiplicar
+
+### Escrever código
+
+```
+int main(void){
+  printf("Hello world\n")
+}
+```
