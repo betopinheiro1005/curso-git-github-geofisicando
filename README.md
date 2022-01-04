@@ -36,5 +36,5 @@ Ir para a página do [Google](https://www.google.com)
 
 ### Imagem
 
-![Imagem do Github]()
+![Imagem do Github](https://github.com/betopinheiro1005/curso-git-github-geofisicando/blob/main/github_social.png)
 
