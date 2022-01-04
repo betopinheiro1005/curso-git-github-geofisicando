@@ -51,15 +51,21 @@ Ir para a página do [Google](https://www.google.com)
 
 ### Escrever código
 
+#### Em linguagem C
+
 ```c
 int main(void){
   printf("Hello world\n")
 }
 ```
 
+#### Em Python
+
 ```py
   print("Hello world")
 ```
+
+#### Em shell
 
 ```sh
   echo "Hello world"
