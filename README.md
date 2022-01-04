@@ -70,3 +70,9 @@ print("Hello world")
 ```sh
 echo "Hello world"
 ```
+
+### Criar tabela
+
+Nome | E-mail | Cargo |
+---|---|---|
+Roberto Pinheiro | betopinheiro1005@yahoo.com.br | Developer PHP |
