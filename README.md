@@ -34,3 +34,7 @@ _Estudos sobre Git e Github_
 
 Ir para a página do [Google](https://www.google.com)
 
+### Imagem
+
+![Imagem do Github]()
+
