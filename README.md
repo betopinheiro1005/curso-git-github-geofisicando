@@ -62,11 +62,11 @@ int main(void){
 #### Em Python
 
 ```py
-  print("Hello world")
+print("Hello world")
 ```
 
 #### Em shell
 
 ```sh
-  echo "Hello world"
+echo "Hello world"
 ```
