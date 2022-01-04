@@ -56,3 +56,11 @@ int main(void){
   printf("Hello world\n")
 }
 ```
+
+```py
+  print("Hello world")
+```
+
+```sh
+  echo "Hello world"
+```
